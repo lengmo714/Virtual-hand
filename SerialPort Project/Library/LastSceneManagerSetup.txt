@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SerialPort/Core/Examples/SerialPort Hands Demo.unity
+  isLoaded: 1
+  isActive: 1
